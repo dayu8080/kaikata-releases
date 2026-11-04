@@ -2,7 +2,7 @@
 
 Календарь с будильником для Android: события и задачи из Google Календаря, полноэкранный сигнал, виджеты, быстрая запись голосом.
 
-## ⬇ [Скачать Kaikata 3.4](https://github.com/dayu8080/kaikata-releases/releases/download/v3.4/Kaikata-3.4.apk)
+## ⬇ [Скачать Kaikata 3.5](https://github.com/dayu8080/kaikata-releases/releases/download/v3.5/Kaikata-3.5.apk)
 
 Нажмите на ссылку выше — файл сразу начнёт скачиваться.
 
@@ -10,7 +10,8 @@
 
 | Версия | Скачать | Что нового |
 |---|---|---|
-| **3.4** (последняя) | [Kaikata-3.4.apk](https://github.com/dayu8080/kaikata-releases/releases/download/v3.4/Kaikata-3.4.apk) | Быстрая запись текстом и голосом, кнопка микрофона в виджетах, ярлыки «Сказать» и «Написать» |
+| **3.5** (последняя) | [Kaikata-3.5.apk](https://github.com/dayu8080/kaikata-releases/releases/download/v3.5/Kaikata-3.5.apk) | Умная быстрая запись: несколько дней сразу, промежутки дат, время словами, подсветка, выбор даты и времени кнопками, отмена |
+| 3.4 | [Kaikata-3.4.apk](https://github.com/dayu8080/kaikata-releases/releases/download/v3.4/Kaikata-3.4.apk) | Быстрая запись текстом и голосом, кнопка микрофона в виджетах, ярлыки «Сказать» и «Написать» |
 | 3.3 | [Kaikata-3.3.apk](https://github.com/dayu8080/kaikata-releases/releases/download/v3.3/Kaikata-3.3.apk) | Новый облик: палитры, тёмная тема, виджеты с листком календаря и веткой сакуры |
 
 Подробное описание каждой версии — в [Releases](https://github.com/dayu8080/kaikata-releases/releases).
